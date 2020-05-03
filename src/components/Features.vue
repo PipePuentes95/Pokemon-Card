@@ -11,14 +11,10 @@
 
 <script>
 export default {
-    name: "Caracteristics",
+    name: "Features",
     props: {
         items: Array,
         title: String
     }
 }
 </script>
-
-<style>
-
-</style>
